@@ -3,6 +3,9 @@
 A modern AI-powered Movie Recommendation System built using **Python, Streamlit, Machine Learning, and TF-IDF**. The application recommends similar movies based on movie content using cosine similarity.
 
 ---
+## 🌐 Live Demo
+
+🚀 https://movie-recommendation3172.streamlit.app/
 
 ## 🚀 Features
 
