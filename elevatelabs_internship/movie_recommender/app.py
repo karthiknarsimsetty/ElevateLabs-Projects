@@ -6,11 +6,16 @@ from sklearn.metrics.pairwise import cosine_similarity
 from movies_data import get_movies_df
 
 st.set_page_config(page_title="🎬 CineMatch AI", layout="wide", page_icon="🎬")
+import base64
+from pathlib import Path
 
-def get_base64_image(image_path):
+def get_base64_image(image_name):
+    image_path = Path(__file__).parent / image_name
     with open(image_path, "rb") as f:
         data = f.read()
     return base64.b64encode(data).decode()
+
+bg_image = get_base64_image("bg.jpg")
 
 bg_image = get_base64_image("bg.jpg")
 
