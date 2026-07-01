@@ -1,0 +1,5 @@
+Rank,name,email,phone,filename,score,matched,missing,recommendation
+1,Rahul Sharma,rahul.sharma@email.com,+91 9876543210,resume_rahul.pdf,26.34,"Python, Flask, Sql, Git, Docker, Linux","Fastapi, Mysql, Postgresql, Machine Learning, Nlp, Spacy, Tensorflow, Numpy, Rest Api",Good Match
+2,Arjun Kumar,arjun.kumar@email.com,+91 9988776655,resume_arjun.pdf,14.62,"Python, Flask, Git","Fastapi, Sql, Mysql, Postgresql, Docker, Linux, Machine Learning, Nlp, Spacy, Tensorflow, Numpy, Rest Api",Average Match
+3,Priya Reddy,priya.reddy@email.com,+91 9123456780,resume_priya.pdf,13.52,"Python, Sql, Machine Learning, Numpy","Flask, Fastapi, Mysql, Postgresql, Git, Docker, Linux, Nlp, Spacy, Tensorflow, Rest Api",Average Match
+4,Neha Patel,neha.patel@email.com,+91 9012345678,resume_neha.pdf,12.75,"Python, Git, Machine Learning, Nlp, Spacy, Tensorflow","Flask, Fastapi, Sql, Mysql, Postgresql, Docker, Linux, Numpy, Rest Api",Average Match

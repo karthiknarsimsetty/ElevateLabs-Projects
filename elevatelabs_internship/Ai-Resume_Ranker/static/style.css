@@ -1,0 +1,91 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+
+    min-height:100vh;
+}
+
+.card{
+
+    border:none;
+
+    border-radius:20px;
+
+    background:rgba(255,255,255,0.15);
+
+    backdrop-filter:blur(15px);
+
+    box-shadow:0 8px 32px rgba(0,0,0,0.35);
+
+}
+
+.card-header{
+
+    border-radius:20px 20px 0 0 !important;
+
+    background:linear-gradient(90deg,#0072ff,#00c6ff)!important;
+
+}
+
+.card-body{
+
+    color:white;
+
+}
+
+label{
+
+    font-weight:bold;
+
+}
+
+.form-control{
+
+    border-radius:10px;
+
+}
+
+.btn{
+
+    border-radius:10px;
+
+    font-weight:bold;
+
+}
+
+.table{
+
+    background:white;
+
+    border-radius:10px;
+
+    overflow:hidden;
+
+}
+
+.progress{
+
+    height:25px;
+
+    border-radius:20px;
+
+}
+
+h2{
+
+    font-weight:bold;
+
+}
+
+.footer{
+
+    text-align:center;
+
+    color:white;
+
+    margin-top:20px;
+
+}
