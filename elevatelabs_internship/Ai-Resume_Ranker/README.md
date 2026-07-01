@@ -154,12 +154,9 @@ screenshots/
 
 ## 👨‍💻 Author
 
-**Karthik**
+**Narsimsetty Karthik**
 
 AI & Machine Learning Internship Project
 
 ---
 
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub.
